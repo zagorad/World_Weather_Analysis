@@ -3,7 +3,7 @@
 ## *Project Overview*
 The overview of the project was to create an itinerary for travelers based on their weather preference, which then will identify potential travel destinations and hotels.  Finally, using the APIs a travel route will be created between four cities. 
 
-## *Results
+## Results
 
 City and Hotel Map 
 
